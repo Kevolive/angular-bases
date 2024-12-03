@@ -7,6 +7,7 @@ import { HeroComponent } from "./heroes/hero/hero.component";
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
   // imports: [HeroComponent]
+  
 })
 export class AppComponent {
   public title: String = 'Hola Mundo';
